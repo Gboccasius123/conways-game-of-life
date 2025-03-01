@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 let grid = [];
 let newgrid = [];
-const tilesize = 4;
+const tilesize = 8;
 let canvasWidth = 0;
 let canvasHeight = 0;
 let w = 0;
