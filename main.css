@@ -1,0 +1,33 @@
+html,body{
+    margin:0;
+    padding:0;
+    background-color: black;
+}
+
+/* Matrix style button */
+.btn{
+    background-color: #050505;
+    color: #00FF00;
+    border: 1px solid #00FF00;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.2s;
+
+
+}
+
+.btn:hover{
+    background-color: #00FF00;
+    color: #050505;
+}
+
+.btns{
+    position: absolute;
+    bottom: 20px;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
